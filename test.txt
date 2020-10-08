@@ -2,4 +2,8 @@ fffffff
 ffff
 ddd
 r
+<<<<<<< HEAD
 a
+=======
+f
+>>>>>>> 6ab2f24b41d43516ed933c4f57a79f494bdce735
